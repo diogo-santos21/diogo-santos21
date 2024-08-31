@@ -5,18 +5,21 @@
 
 Morador do meio-oeste Catarinense
 
-### Detalhes
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diogo-santos21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Diogo github stats" /></a> | <a href="https://github.com/diogo-santos21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-santos21&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=diogo-santos21=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=diogo-santos21=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-###Projetos
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=diogo-santos21&repo=Excemplo_2l&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=diogo-santos21=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=diogo-santos21=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 
-### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
