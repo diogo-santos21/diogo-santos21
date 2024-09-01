@@ -9,7 +9,7 @@ Estudante de Engenharia Elétrica. Morador do meio-oeste de Santa Catarina.
       <td style="border: 0;">
         <img
           src="https://github-readme-stats-steel-omega.vercel.app/api?username=diogo-santos21&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_answered,prs_merged#gh-dark-mode-only"
-          alt="My Github stats"
+          alt="Status GitHub"
           height="370"
         />
      </td>
